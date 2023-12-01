@@ -13,16 +13,6 @@ namespace JogoDaForcaLib
         private static string theme;
         private static int chances;
 
-        private static Dictionary<string, int> themeCodes = new Dictionary<string, int>
-        {
-            {"GEOGRAFIA", 1 },
-            {"EMPRESAS", 2 },
-            {"HISTORIA", 3 },
-            {"ENTRETENIMENTO", 4 },
-            {"TAYLOR SWIFT", 5 }
-
-        };
-
         private static List<string> pastWords = new List<string>();
 
         private static List<char> usedLetters = new List<char>();
