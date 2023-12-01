@@ -18,7 +18,7 @@
 
                 Console.WriteLine($"Você já ganhou {gamesWon} jogos!! Você gostaria de jogar novamente? \nDigite Y para sim e qualquer outra coisa para não");
                 string txt = Console.ReadLine();
-                if (txt.Length != 1 || txt[0] != 'Y')
+                if (txt.Length != 1 || txt.ToUpper()[0] != 'Y' )
                     keepPlaying = false;
             }
 
