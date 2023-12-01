@@ -9,8 +9,6 @@ Este é um projeto para o final do módulo 1 (Lógica de Programação) do curso
 - [Conceitos do módulo que foram aplicados](#conceitos-do-módulo-que-foram-aplicados)
 - [Sobre o jogo](#sobre-o-jogo)
 - [Lógica do projeto explicada](#lógica-do-projeto-explicada)
-- [Project in development](#project-still-in-development)
-
 
 
 ## Uso
